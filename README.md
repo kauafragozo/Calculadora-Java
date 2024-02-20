@@ -1,4 +1,4 @@
-Calculadora em Java (Versão 2)
+Calculadora em Java 
 #
 Esta é a segunda versão da calculadora simples em Java, desenvolvida como parte de um projeto para aprimorar os estudos na linguagem Java e fortalecer a lógica de programação. Nesta versão, foram adicionadas melhorias significativas, incluindo a verificação da divisão por zero, além das opções de potenciação e raiz quadrada.
 #
